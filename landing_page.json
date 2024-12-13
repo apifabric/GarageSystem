@@ -1,0 +1,116 @@
+{
+    "name": "AutoFix Garage",
+    "logo": {
+        "Type": "Logo",
+        "name": "AutoFix Logo",
+        "description": "A sleek, modern representation of a car incorporated into the text 'AutoFix'. It signifies speed, reliability, and precision."
+    },
+    "sections": [
+        {
+            "title": "Welcome to AutoFix Garage",
+            "subtitle": "Your One-Stop Solution for Car Care",
+            "name": "hero",
+            "label": "Home",
+            "content": "At **AutoFix Garage**, we ensure that your car receives the best service available, leaving it running as smoothly as the day you bought it. Let's drive into the future of car maintenance together.",
+            "order": 1,
+            "Type": "Hero",
+            "images": [
+                {
+                    "Type": "Hero",
+                    "name": "Garage Interior",
+                    "description": "A wide shot of a pristine, modern car garage with state-of-the-art equipment."
+                }
+            ]
+        },
+        {
+            "title": "About AutoFix Garage",
+            "subtitle": "A Legacy of Excellence",
+            "name": "about",
+            "label": "About",
+            "content": "At **AutoFix Garage**, we've been passionately serving car owners since 1990. Our mission is simple: to provide top-notch automotive services with honesty and expertise. Whether it\u2019s maintenance, repair, or upgrades, our team of certified professionals is here to ensure your vehicle performs at its best.",
+            "order": 2,
+            "Type": "About",
+            "images": [
+                {
+                    "Type": "Background",
+                    "name": "Garage Exterior",
+                    "description": "The exterior view of AutoFix Garage showcasing our branding and spacious facility."
+                }
+            ]
+        },
+        {
+            "title": "Our Services",
+            "subtitle": "Comprehensive Car Care",
+            "name": "services",
+            "label": "Services",
+            "content": "We offer a full range of services tailored to meet your automotive needs. **Our core services include:**\n\n- **Routine Maintenance**: Oil changes, tire rotations, fluid checks, and more.\n- **Repairs**: Engine diagnostics, brake repairs, transmission service.\n- **Customizations**: Bodywork, performance upgrades, window tinting.\n- **Safety Checks**: Pre-trip inspections, insurance assessments.\n\n*Experience the convenience of quality service with a personal touch.*",
+            "order": 3,
+            "Type": "Services",
+            "images": [
+                {
+                    "Type": "ItemListing",
+                    "name": "Service Bay",
+                    "description": "A detailed view of our service bay, equipped with modern tools and professional technicians."
+                }
+            ]
+        },
+        {
+            "title": "See Our Work",
+            "subtitle": "Quality You Can Trust",
+            "name": "gallery",
+            "label": "Gallery",
+            "content": "Explore some of our latest projects and witness the transformation that quality care can bring to your vehicle.",
+            "order": 4,
+            "Type": "Gallery",
+            "images": [
+                {
+                    "Type": "Gallery",
+                    "name": "Refurbished Classics",
+                    "description": "A series of classic cars restored to their former glory."
+                },
+                {
+                    "Type": "Gallery",
+                    "name": "Performance Upgrades",
+                    "description": "Shots of a sports car with newly installed performance parts."
+                }
+            ]
+        },
+        {
+            "title": "Contact Us",
+            "subtitle": "We're Here to Help",
+            "name": "contact",
+            "label": "Contact",
+            "content": "**Get in touch with us today for your automotive needs:**\n\n**Phone**: (555) 123-4567  \n**Email**: info@autofixgarage.com  \n**Address**: 123 Car Lane, Motor City, CA\n\n*Visit us or call now to schedule your appointment.*",
+            "order": 5,
+            "Type": "Contact",
+            "images": [
+                {
+                    "Type": "Map",
+                    "name": "Location Map",
+                    "description": "Map view showing the location of AutoFix Garage."
+                },
+                {
+                    "Type": "Icon",
+                    "name": "Contact Icons",
+                    "description": "Icons representing phone, email, and location for contact ease."
+                }
+            ]
+        },
+        {
+            "title": "Our Team",
+            "subtitle": "Meet The Experts",
+            "name": "team",
+            "label": "Team",
+            "content": "Our team comprises experienced mechanics who are passionate about cars. Learn more about the professionals who make our garage thrive.",
+            "order": 6,
+            "Type": "Team",
+            "images": [
+                {
+                    "Type": "Headshot",
+                    "name": "Team Members",
+                    "description": "Profile pictures of our lead mechanics and administrative staff."
+                }
+            ]
+        }
+    ]
+}
